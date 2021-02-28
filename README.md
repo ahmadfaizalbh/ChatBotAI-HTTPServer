@@ -2,7 +2,7 @@
 
 ## First run (create DB)
 ```shell script
-$ pip install -r requirement.txt
+$ pip install -r requirements.txt
 $ python models.py
 ```
 
