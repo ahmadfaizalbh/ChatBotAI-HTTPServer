@@ -1,4 +1,4 @@
 SQLAlchemy==1.3.22
 wikipedia==1.4.0
-requests==2.32.0
+requests==2.32.4
 chatbotAI==0.3.0.0
